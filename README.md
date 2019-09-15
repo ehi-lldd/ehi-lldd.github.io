@@ -1,2 +1,7 @@
 # ehi-lldd.github.io
-Ediciones hiperintertextuales: propuesta de web para navegar entre textos y sus intertextos y herramientas para la automatización de anotaciones TEI
+Title: Ediciones hiperintertextuales: propuesta de web para navegar entre textos y sus intertextos y herramientas para la automatización de anotaciones TEI
+Authors: María Robles Pérez; Tamara Saavedra Pascual
+Version: 1.0.0
+Comments: Trabajo de fin de Máster del Máster en Letras Digitales, curso 2018-2019. Incluye:
+  - Portal web en HTML.
+  - Programa AnoTEI en lenguaje Python.
