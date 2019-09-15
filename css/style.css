@@ -1,0 +1,276 @@
+/**Modelo de botón para el índice**/
+
+
+/**Para el Javascript**/
+
+.red {
+	color: red;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+.visible {
+	visibility: visible;
+}
+
+/**Footer de las páginas**/
+
+.footer-web {
+	background-color: rgb(211,211,211, 0.3)
+;
+	color: black;
+}
+
+.img-footer{
+    opacity: 0.8;
+    margin-top: 10px;
+}
+
+/**Header de las páginas**/
+
+.header-about {
+	background-color: #f1e1c7;
+}
+
+/**Botones redes sociales**/
+
+.social-media {
+	margin: 15px;
+	padding: 3px;
+}
+
+.fa-cog {
+  color: black;
+}
+
+/**Edición**/
+
+/**Imagen y título del header**/
+
+.header-principal {
+	width: 100%;
+    position: fixed;
+    background: #000;
+    margin-top: -73px;
+    z-index: 999;
+    display:flex;
+    align-items: center;
+    justify-content: center
+}
+
+.header-principal ul.m-menu {
+	margin-bottom: 0px;
+}
+
+.wrapper {
+	max-width: 1300px;
+	margin: 0 auto;
+	/*max-height: 60px;*/
+}
+
+.wrapper--menu {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+.logo-cabecera {
+	max-height: 150px;
+}
+.o-header__hero--listado {
+	background: url(../img/wrapMachado.png);
+	background-repeat: no-repeat;
+}
+
+.cabecera_obras {
+	 background: url(../img/wrapMachado.png);
+	 height: 320px;
+}
+
+.o-header__hero {
+	background-size: cover !important;
+	background-position: 50% !important;
+	padding: 140px 15px;
+	/* margin-top: -10px;  */
+	margin-top: 0px;
+}
+
+.m-hero__titlecontainer {
+	text-align: left;
+}
+
+.m-hero__breadcrumb {
+	color: #000;
+	margin-top: 20px;
+	font-size: 0.85rem;
+}
+
+.m-hero__breadcrumb__menuprincipal {
+    color: #000;
+    margin-top: 20px;
+    font-size: 1rem;
+    margin-left: 190px;
+}
+
+.a-breadcrumb__link {
+	color: #000;
+	transition: .15s linear;
+}
+
+.a-breadcrumb__link:hover {
+	color: #2f646f;
+	text-decoration: none;
+}
+
+.a-breadcrumb__delimiter {
+	margin: 0 10px;
+}
+
+.a-breadcrumb__current {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.a-breadcrumb__current:hover {
+	text-decoration: none;
+	color: #e3e3e3;
+}
+
+
+.a-hero__title {
+	color: #e3e3e3;
+	text-shadow: 2px 2px 2px #000;
+	font-weight: 500;
+	font-size: 2.56rem;
+}
+
+.a-hero__title__menuprincipal {
+	color: #e3e3e3;
+    text-shadow: 2px 2px 2px #000;
+    font-weight: 500;
+    font-size: 2.56rem;
+}
+
+
+
+/**Menú edición**/
+
+.o-listadomenu {
+	position: sticky;
+	top: 100px;
+}
+
+.o-listadomenu_categories--firstlevel {
+	margin: 30px 0;
+	box-shadow: 0 1px 3px 0 #d2d2d2;
+	display: block;
+}
+
+.o-listadomenu_categories--firstlevel {
+	margin: 30px 0;
+	box-shadow: 0 1px 3px 0 #d2d2d2;
+	display: block;
+}
+
+.m-listadomenu__item {
+	position: relative;
+	border: 1px solid #eee;
+}
+
+.o-listadomenu_categoriescontainer {
+	background: #fff;
+	min-width: 224px;
+}
+
+.current {
+	color: #ae3333;
+}
+
+.l-listado__container {
+	display: -ms-flexbox;
+	display: flex;
+	max-width: 248px;
+}
+
+.l-listado__container {
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	max-width: 248px;
+}
+
+@media ( min-width :1000px) {
+	.l-listado__categories {
+		width: 100%
+	}
+	.l-listado__results {
+		width: 75%;
+		margin-left: 5%
+	}
+	.l-listado__results--blog {
+		width: 75%;
+		margin-right: 5%
+	}
+	.l-listado__results--text {
+		width: 100%;
+	}
+	.l-listado__container {
+		-ms-flex-wrap: nowrap;
+		flex-wrap: nowrap;
+		max-width: 248px;
+	}
+}
+
+.a-listadomenu__category {
+	background: #000;
+	display: inline-block;
+	color: #fff;
+	padding: 4px 15px;
+	top: -13px;
+	position: relative;
+	text-transform: uppercase;
+	font-size: .8888888889rem;
+	font-weight: 700;
+}
+
+.a-listadomenu__item.a-listadomenu__item--firslevel {
+	position: relative;
+	text-transform: uppercase;
+	/* width: 100%; */
+	/* padding-top: 20px; */
+	font-size: 1rem;
+	padding: 8px;
+	transition: .15s linear;
+	color: #212121;
+	padding-left: 0px;
+	text-decoration: none;
+	/*line-height: 1.953125rem;*/
+	/*line-height: .8888888889rem;*/
+	display: block;
+	/* border: 3px solid transparent; */
+	line-height: 2.3rem;
+}
+
+.a-listadomenu__item.a-listadomenu__item--firslevel.current {
+	color: #ae3333;
+}
+
+.a-listadomenu__item.a-listadomenu__item--firslevel:hover {
+	color: #ae3333;
+}
+
+.a-listadomenu__item--firslevel.current span.spanPadding {
+	border-left: 3px solid #ae3333;
+	padding: 8px 15px;
+}
+
+.a-listadomenu__item--firslevel.current div {
+	border-left: 3px solid #ae3333;
+	padding: 0px 20px;
+}
+
