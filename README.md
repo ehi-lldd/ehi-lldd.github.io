@@ -4,4 +4,6 @@ Authors: María Robles Pérez; Tamara Saavedra Pascual
 Version: 1.0.0
 Comments: Trabajo de fin de Máster del Máster en Letras Digitales, curso 2018-2019. Incluye:
   - Portal web en HTML.
-  - Programa AnoTEI en lenguaje Python.
+  - Programa AnoTEI en lenguaje Python
+    * Archivo .py para consola 
+    * Archivo .ipynb para Google Colaboratory (https://colab.research.google.com)
