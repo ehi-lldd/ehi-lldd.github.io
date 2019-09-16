@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Los árboles conservan</head>
+			<lg xml:id="P0030" type="romance endecha">
+				<lg xml:id="P0030E0001" met="7, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0030V0001">Los <seg type="tag">árboles</seg> cons<rhyme label="ervan">ervan</rhyme></l>
+					<l xml:id="P0030V0002">verdes aún las c<rhyme label="opas">opas</rhyme>,</l>
+					<l xml:id="P0030V0003">pero del verde m<rhyme label="ustio">ustio</rhyme></l>
+					<l xml:id="P0030V0004">de las marchitas fr<rhyme label="ondas">ondas</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0030E0002" met="7, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0030V0005">El <seg type="tag">agua</seg> de la fu<rhyme label="ente">ente</rhyme>,</l>
+					<l xml:id="P0030V0006">sobre la piedra t<rhyme label="osca">osca</rhyme></l>
+					<l xml:id="P0030V0007">y de verdín cubi<rhyme label="erta">erta</rhyme>,</l>
+					<l xml:id="P0030V0008">resbala silenci<rhyme label="osa">osa</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0030E0003" met="7, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0030V0009">Arrastra el <seg type="tag">viento</seg> alg<rhyme label="unas">unas</rhyme></l>
+					<l xml:id="P0030V0010">amarillentas h<rhyme label="ojas">ojas</rhyme>.</l>
+					<l xml:id="P0030V0011">¡El <seg type="tag">viento</seg> de la <seg type="tag">t<rhyme label="arde">arde</rhyme></seg></l>
+					<l xml:id="P0030V0012">sobre la tierra en <seg type="tag">s<rhyme label="ombra">ombra</rhyme></seg>!</l>
+				</lg>
+			</lg>
+		</body>
+		<intertext>
+  			<head>Sueño</head>
+  			<p>Poema de Federico García Lorca. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Federico García Lorca</author>
+  					<title>Libro de poemas (1919). Obras completas</title> 
+  					<publisher>Aguilar</publisher>
+  					<date>1980</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+	</text>
+</TEI>

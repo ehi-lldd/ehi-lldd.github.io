@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Introducción a los sueños</head>
+			<lg xml:id="P0001" type="romance endecha">
+				<lg xml:id="P0001E0001" met="7, 7, 7, 7, 7, 7, 7, 7" rhyme="-a-a-a-a">
+					<l xml:id="P0001V0001">Leyendo un claro d<rhyme label="ía">ía</rhyme></l>
+					<l xml:id="P0001V0002">mis bien amados v<rhyme label="ersos">ersos</rhyme>,</l>
+					<l xml:id="P0001V0003">he visto en el prof<rhyme label="undo">undo</rhyme></l>
+					<l xml:id="P0001V0004">espejo de mis su<rhyme label="eños">eños</rhyme></l>
+					<l xml:id="P0001V0005">que una verdad div<rhyme label="ina">ina</rhyme></l>
+					<l xml:id="P0001V0006">temblando está de mi<rhyme label="edo">edo</rhyme>,</l>
+					<l xml:id="P0001V0007">y es una <seg type="tag">flor</seg> que qui<rhyme label="ere">ere</rhyme></l>
+					<l xml:id="P0001V0008">echar su aroma al <seg type="tag">vi<rhyme label="ento">ento</rhyme></seg>.</l>
+				</lg>
+				<lg xml:id="P0001E0002" met="7, 7, 7, 7, 7, 7" rhyme="-a-a-a">
+					<l xml:id="P0001V0009">El <seg type="tag">alma</seg> del po<rhyme label="eta">eta</rhyme></l>
+					<l xml:id="P0001V0010">se orienta hacia el mist<rhyme label="erio">erio</rhyme>.</l>
+					<l xml:id="P0001V0011">Sólo el poeta pu<rhyme label="ede">ede</rhyme></l>
+					<l xml:id="P0001V0012">mirar lo que está l<rhyme label="ejos">ejos</rhyme></l>
+					<l xml:id="P0001V0013">dentro del <seg type="tag">alma</seg>, en t<rhyme label="urbio">urbio</rhyme></l>
+					<l xml:id="P0001V0014">y mago <seg type="tag">sol</seg> envu<rhyme label="elto">elto</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0001E0003" met="7, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0001V0015">En esas <seg type="tag">galer<rhyme label="ía">ía</rhyme></seg>s,</l>
+					<l xml:id="P0001V0016">sin fondo, del recu<rhyme label="erdo">erdo</rhyme>,</l>
+					<l xml:id="P0001V0017">donde las pobres g<rhyme label="entes">entes</rhyme></l>
+					<l xml:id="P0001V0018">colgaron cual trof<rhyme label="eo">eo</rhyme></l>
+				</lg>
+				<lg xml:id="P0001E0004" met="7, 7, 7, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0001V0019">el traje de una fi<rhyme label="esta">esta</rhyme></l>
+					<l xml:id="P0001V0020">apolillado y vi<rhyme label="ejo">ejo</rhyme>,</l>
+					<l xml:id="P0001V0021">allí el poeta s<rhyme label="abe">abe</rhyme></l>
+					<l xml:id="P0001V0022">el laborar et<rhyme label="erno">erno</rhyme></l>
+					<l xml:id="P0001V0023">mirar de las dor<rhyme label="">adas</rhyme></l>
+					<l xml:id="P0001V0024">abejas de los <seg type="tag">su<rhyme label="eños">eños</rhyme></seg>.</l>
+				</lg>
+				<lg xml:id="P0001E0005" met="7, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0001V0025">Poetas, con el <seg type="tag"><rhyme label="alma">alma</rhyme></seg></l>
+					<l xml:id="P0001V0026">atenta al hondo ci<rhyme label="elo">elo</rhyme>,</l>
+					<l xml:id="P0001V0027">en la cruel bat<rhyme label="alla">alla</rhyme></l>
+					<l xml:id="P0001V0028">o en el tranquilo hu<rhyme label="erto">erto</rhyme>,</l>
+				</lg>
+				<lg xml:id="P0001E0006" met="7, 7, 7, 7, 7, 7" rhyme="-a-a-a">
+					<l xml:id="P0001V0029">la nueva miel labr<rhyme label="amos">amos</rhyme></l>
+					<l xml:id="P0001V0030">con los <seg type="tag">dolor</seg>es vi<rhyme label="ejos">ejos</rhyme>,</l>
+					<l xml:id="P0001V0031">la veste blanca y p<rhyme label="ura">ura</rhyme></l>
+					<l xml:id="P0001V0032">pacientemente hac<rhyme label="emos">emos</rhyme>,</l>
+					<l xml:id="P0001V0033">y bajo el <seg type="tag">sol</seg> bruñ<rhyme label="imos">imos</rhyme></l>
+					<l xml:id="P0001V0034">el fuerte arnés de hi<rhyme label="erro">erro</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0001E0007" met="7, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0001V0035">El <seg type="tag">alma</seg> que no su<rhyme label="eña">eña</rhyme>,</l>
+					<l xml:id="P0001V0036">el enemigo esp<rhyme label="ejo">ejo</rhyme>,</l>
+					<l xml:id="P0001V0037">proyecta nuestra im<rhyme label="agen">agen</rhyme></l>
+					<l xml:id="P0001V0038">con un perfil grot<rhyme label="esco">esco</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0001E0008" met="7, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0001V0039">Sentimos una <rhyme label="ola">ola</rhyme></l>
+					<l xml:id="P0001V0040">de sangre, en nuestro p<rhyme label="echo">echo</rhyme>,</l>
+					<l xml:id="P0001V0041">que pasa... y sonre<rhyme label="ímos">ímos</rhyme>,</l>
+					<l xml:id="P0001V0042">y a laborar volv<rhyme label="emos">emos</rhyme>.</l>
+				</lg>
+			</lg>
+		</body>
+		<intertext>
+  			<head>XXVI. En nuestras almas todo...</head>
+  			<p>Poema de Félix Grande. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Antonio Machado</author>
+  					<title>Poesías completas</title> 
+  					<publisher>Austral</publisher>
+  					<date>2010</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+	</text>
+</TEI>

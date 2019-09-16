@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Y esos niños en hilera</head>
+			<lg xml:id="P0006">
+				<lg xml:id="P0006E0001" type="tercetillo" met="8, 8, 8" rhyme="a-a">
+					<l xml:id="P0006V0001">¡Y esos <seg type="tag">niños</seg> en hil<rhyme label="era">era</rhyme>,</l>
+					<l xml:id="P0006V0002">llevando el <seg type="tag">sol</seg> de la <seg type="tag">t<rhyme label="arde">arde</rhyme></seg></l>
+					<l xml:id="P0006V0003">en sus velitas de c<rhyme label="">era</rhyme>!...</l>
+				</lg>
+				<lg xml:id="P0006E0002" type="tercetillo" met="8, 8, 8" rhyme="b-b">
+					<l xml:id="P0006V0004">De amarillo calab<rhyme label="aza">aza</rhyme>,</l>
+					<l xml:id="P0006V0005">en el azul, cómo s<rhyme label="ube">ube</rhyme></l>
+					<l xml:id="P0006V0006">la luna, sobre la pl<rhyme label="aza">aza</rhyme>!</l>
+				</lg>
+				<lg xml:id="P0006E0003" type="quintilla" met="4, 8, 5, 8, 8" rhyme="cdcdc">
+					<l xml:id="P0006V0007">Duro c<rhyme label="eño">eño</rhyme>.</l>
+					<l xml:id="P0006V0008">Pirata, rubio afric<rhyme label="ano">ano</rhyme>,</l>
+					<l xml:id="P0006V0009">barbitah<rhyme label="eño">eño</rhyme>.</l>
+					<l xml:id="P0006V0010">Lleva un alfanje en la m<rhyme label="ano">ano</rhyme>.</l>
+					<l xml:id="P0006V0011">Estas figuras del <seg type="tag">su<rhyme label="eño">eño</rhyme></seg>...</l>
+				</lg>
+				<lg xml:id="P0006E0004" type="serventesio" met="10, 9+1=10, 10, 9+1=10" rhyme="EFEF">
+					<l xml:id="P0006V0012">Donde las <seg type="tag">niñas</seg> cantan en c<rhyme label="orro">orro</rhyme>,</l>
+					<l xml:id="P0006V0013">en los <seg type="tag">jardines</seg> del limon<rhyme label="ar">ar</rhyme>,</l>
+					<l xml:id="P0006V0014">sobre la fuente, negro abej<rhyme label="orro">orro</rhyme></l>
+					<l xml:id="P0006V0015">pasa volando, zumba al vol<rhyme label="ar">ar</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0006E0005" type="serventesio" met="10, 9+1=10, 10, 9+1=10" rhyme="GFGF">
+					<l xml:id="P0006V0016">Se oyó su bronco gruñir de abu<rhyme label="elo">elo</rhyme></l>
+					<l xml:id="P0006V0017">entre las claras voces son<rhyme label="ar">ar</rhyme>,</l>
+					<l xml:id="P0006V0018">superflua nota de violonc<rhyme label="elo">elo</rhyme></l>
+					<l xml:id="P0006V0019">en los <seg type="tag">jardines</seg> del limon<rhyme label="ar">ar</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0006E0006" type="serventesio" met="10, 9+1=10, 10, 9+1=10" rhyme="HIHI">
+					<l xml:id="P0006V0020">Entre las cuatro blancas par<rhyme label="edes">edes</rhyme>,</l>
+					<l xml:id="P0006V0021">cuando una mano cerró el balc<rhyme label="ón">ón</rhyme>,</l>
+					<l xml:id="P0006V0022">por los salones de sal-si-pu<rhyme label="edes">edes</rhyme></l>
+					<l xml:id="P0006V0023">suena el rebato de su bord<rhyme label="ón">ón</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0006E0007" type="serventesio" met="10, 9+1=10, 10, 9+1=10" rhyme="JKJK">
+					<l xml:id="P0006V0024">Muda en el techo, quieta, ¿dorm<rhyme label="ida">ida</rhyme>?,</l>
+					<l xml:id="P0006V0025">la negra nota de angustia est<rhyme label="á">á</rhyme>,</l>
+					<l xml:id="P0006V0026">y en la pradera verdiflor<rhyme label="ida">ida</rhyme></l>
+					<l xml:id="P0006V0027">de un <seg type="tag">sueño</seg> <seg type="tag">niño</seg> volando v<rhyme label="a">a</rhyme>...</l>
+				</lg>
+			</lg>
+		</body>
+		<intertext>
+  			<head>Los cantos de los niños</head>
+  			<p>Poema de Antonio Machado. Nivel intertextual (interno).</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Antonio Machado</author>
+  					<title>Poesías completas</title> 
+  					<publisher>Austral</publisher>
+  					<date>2010</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+	</text>
+</TEI>

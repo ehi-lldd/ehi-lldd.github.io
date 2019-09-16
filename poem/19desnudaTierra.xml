@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Desnuda está la tierra</head>
+			<lg xml:id="P0019" type="silva arromanzada">
+				<lg xml:id="P0019E0001" type="silva arromanzada" met="7, 12-1=11, 11, 7" rhyme="-A-a">
+					<l xml:id="P0019V0001">Desnuda está la ti<rhyme label="erra">erra</rhyme>,</l>
+					<l xml:id="P0019V0002">y el <seg type="tag">alma</seg> aúlla al horizonte p<rhyme label="álido">álido</rhyme></l>
+					<l xml:id="P0019V0003">como loba famélica. ¿Qué b<rhyme label="uscas">uscas</rhyme>,</l>
+					<l xml:id="P0019V0004">poeta, en el oc<rhyme label="aso">aso</rhyme>?</l>
+				</lg>
+				<lg xml:id="P0019E0002" type="silva arromanzada" met="11, 11, 11, 11" rhyme="-A-A">
+					<l xml:id="P0019V0005">¡Amargo caminar, porque el cam<rhyme label="ino">ino</rhyme></l>
+					<l xml:id="P0019V0006">pesa en el corazón! ¡El <seg type="tag">viento</seg> hel<rhyme label="ado">ado</rhyme>,</l>
+					<l xml:id="P0019V0007">y la noche que llega, y la amarg<rhyme label="ura">ura</rhyme></l>
+					<l xml:id="P0019V0008">de la distancia!... En el camino bl<rhyme label="anco">anco</rhyme></l>
+				</lg>
+				<lg xml:id="P0019E0003" type="silva arromanzada" met="11, 7, 11, 7" rhyme="-a-a">
+					<l xml:id="P0019V0009">algunos yertos <seg type="tag">árboles</seg> negr<rhyme label="ean">ean</rhyme>;</l>
+					<l xml:id="P0019V0010">en los montes lej<rhyme label="anos">anos</rhyme></l>
+					<l xml:id="P0019V0011">hay <seg type="tag">oro</seg> y sangre... El <seg type="tag">sol</seg> murió... ¿Qué b<rhyme label="uscas">uscas</rhyme>,</l>
+					<l xml:id="P0019V0012">poeta, en el oc<rhyme label="aso">aso</rhyme>?</l>
+				</lg>
+			</lg>
+		</body>
+		<intertext>
+  			<head>Andando (sueño)</head>
+  			<p>Poema de Juan Ramón Jiménez. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Juan Ramón Jiménez</author>
+  					<title>Antología de textos juanrramonianos</title> 
+  					<publisher>Biblioteca Virtual Cervantes</publisher>
+  					<date>2006</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+	</text>
+</TEI>
