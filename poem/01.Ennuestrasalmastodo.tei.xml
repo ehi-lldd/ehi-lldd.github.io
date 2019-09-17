@@ -31,18 +31,18 @@
 					<l xml:id="P0001INT0001V0008">o el sonar de las <seg type="tag">aguas</seg> cuando ru<rhyme label="edan">edan</rhyme>.</l>
 				</lg>
 			</lg>
-			<div xml:id="P0001" type="intertext">
-				<head>Introducción a los sueños</head>
-				<p>Poema de Antonio Machado. Nivel intertextual.</p>
-				<sourceDesc>
-					<bibl type="book" subtype="poetry">
-						<author>Antonio Machado</author>
-						<title>Soledades. Galerías. Otros poemas</title>
-						<publisher>Librería de Pueyo</publisher>
-						<date>1907</date>
-					</bibl>
-				</sourceDesc>
-			</div>
 		</body>
+		<intertext>
+			<head>Introducción a los sueños</head>
+			<p>Poema de Antonio Machado. Nivel intertextual.</p>
+			<sourceDesc>
+				<bibl type="book" subtype="poetry">
+					<author>Antonio Machado</author>
+					<title>Soledades. Galerías. Otros poemas</title>
+					<publisher>Librería de Pueyo</publisher>
+					<date>1907</date>
+				</bibl>
+			</sourceDesc>
+		</intertext>
 	</text>
 </TEI>
