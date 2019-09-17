@@ -48,7 +48,8 @@
   					<publisher>Biblioteca Virtual Cervantes</publisher>
   					<date>2006</date>
   				</bibl>
-  			</sourceDesc>  		
-  	</intertext>
+  			</sourceDesc>
+			<link target="19.andando.tei.xml"/>
+  		</intertext>
 	</text>
 </TEI>
