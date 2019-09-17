@@ -54,7 +54,8 @@
   					<publisher>Austral</publisher>
   					<date>2010</date>
   				</bibl>
-  			</sourceDesc>  		
-  	</intertext>
+  			</sourceDesc>
+			<link target="24.Caminante.tei.xml"/>
+  		</intertext>
 	</text>
 </TEI>
