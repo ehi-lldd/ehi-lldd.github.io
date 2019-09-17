@@ -39,7 +39,7 @@ media-type="text/html"/>
 
 		<body>
 				<!--Barra de navegación-->
-				<nav class="navbar navbar-expand-md navbar-light bg-light">
+				<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
 		            <a class="navbar-brand" href="#">
 		                <img src="../img/logoUCM.png" width="40" height="40" alt="Logo UCM"/>
 		                TFM LLDD
