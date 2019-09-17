@@ -91,5 +91,18 @@
   			</sourceDesc>
 			<link target="01.Ennuestrasalmastodo.tei.xml"/>
   	</intertext>
+		<intertext>
+  			<head>XXVI. En nuestras almas todo...</head>
+  			<p>Poema de Félix Grande. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Antonio Machado</author>
+  					<title>Poesías completas</title> 
+  					<publisher>Austral</publisher>
+  					<date>2010</date>
+  				</bibl>
+  			</sourceDesc>
+			<link target="01.Ennuestrasalmastodo.tei.xml"/>
+  	</intertext>
 	</text>
 </TEI>
