@@ -45,7 +45,8 @@
   					<publisher>Anthropos</publisher>
   					<date>1989</date>
   				</bibl>
-  			</sourceDesc>  		
+  			</sourceDesc>
+      <link target="09.Comounainundacion.tei.xml"/>
   	</intertext>
   </text>
 </TEI>
