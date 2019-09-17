@@ -55,13 +55,13 @@ media-type="text/html"/>
         			<div class="collapse navbar-collapse" id="navbarNavDropdown">
             			<ul class="navbar-nav">
 			                <li class="nav-item">
-			                    <a class="nav-link" href="../ehi-lldd/index.html">Índice</a>
+			                    <a class="nav-link" href="../ehi-lldd.github.io/index.html">Índice</a>
 			                </li>
 			                <li class="nav-item active">
-			                    <a class="nav-link" href="../edicion.html">Edición<span class="sr-only">(current)</span></a>
+			                    <a class="nav-link" href="../ehi-lldd.github.io/edicion.html">Edición<span class="sr-only">(current)</span></a>
 			                </li>
 			                <li class="nav-item">
-			                    <a class="nav-link" href="../desarrolladoras.html">Sobre nosotras</a>
+			                    <a class="nav-link" href="../ehi-lldd.github.io/desarrolladoras.html">Sobre nosotras</a>
 			                </li>
             			</ul>
         			</div>
