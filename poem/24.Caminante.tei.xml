@@ -31,7 +31,8 @@
                <l xml:id="P0024INT0001V0010">sino estelas en la m<rhyme>ar</rhyme>.</l>
             </lg>
          </lg>
-         <intertext>
+      </body>
+      <intertext>
          <head>El rojo sol de un sueño</head>
          <p>Poema de Antonio Machado. Nivel intertextual.</p>
          <sourceDesc>
@@ -44,6 +45,5 @@
          </sourceDesc>
          <link target="24rojoSol.xml"/>
       </intertext>
-      </body>
    </text>
 </TEI>
