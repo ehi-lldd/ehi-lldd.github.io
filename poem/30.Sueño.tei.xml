@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Sueño</head>
+         <lg xml:id="P0030INT0001" type="">
+            <lg xml:id="P0030INT0001E0001">
+               <l xml:id="P0030INT0001V0001">Mi corazón reposa junto a la fuente fr<rhyme>ía</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0002">
+               <l xml:id="P0030INT0001V0002">(Llénala con tus h<rhyme>ilos</rhyme>,</l>
+               <l xml:id="P0030INT0001V0003">araña del olv<rhyme>ido</rhyme>).</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0003">
+               <l xml:id="P0030INT0001V0004">El agua de la fuente su canción le dec<rhyme>ía</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0004">
+               <l xml:id="P0030INT0001V0005">(Llénala con tus h<rhyme>ilos</rhyme>,</l>
+               <l xml:id="P0030INT0001V0006">araña del olv<rhyme>ido</rhyme>).</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0005">
+               <l xml:id="P0030INT0001V0007">Mi corazón despierto sus amores dec<rhyme>ía</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0006">
+               <l xml:id="P0030INT0001V0008">(Araña del sil<rhyme>encio</rhyme>,</l>
+               <l xml:id="P0030INT0001V0009">téjele tu mist<rhyme>erio</rhyme>).</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0007">
+               <l xml:id="P0030INT0001V0010">El agua de la fuente lo escuchaba sombr<rhyme>ía</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0008">
+               <l xml:id="P0030INT0001V0011">(Araña del sil<rhyme>encio</rhyme>,</l>
+               <l xml:id="P0030INT0001V0012">téjele tu mist<rhyme>erio</rhyme>).</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0009">
+               <l xml:id="P0030INT0001V0013">Mi corazón se vuelca sobre la fuente fr<rhyme>ía</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0010">
+               <l xml:id="P0030INT0001V0014">(Manos blancas, lej<rhyme>anas</rhyme>,</l>
+               <l xml:id="P0030INT0001V0015">detened a las <rhyme>aguas</rhyme>).</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0011">
+               <l xml:id="P0030INT0001V0016">Y el agua se lo lleva cantando de alegr<rhyme>ía</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0030INT0001E0012">
+               <l xml:id="P0030INT0001V0017">(¡Manos blancas, lej<rhyme>anas</rhyme>,</l>
+               <l xml:id="P0030INT0001V0018">nada queda en las <rhyme>aguas</rhyme>!)</l>
+            </lg>
+         </lg>
+      </body>
+      <intertext>
+         <head>Los árboles conservan</head>
+         <p>Poema de Antonio Machado. Nivel intertextual.</p>
+         <sourceDesc>
+            <bibl type="book" subtype="poetry">
+               <author>Antonio Machado</author>
+               <title>Soledades. Galerías. Otros poemas</title>
+               <publisher>Librería de Pueyo</publisher>
+               <date>1907</date>
+            </bibl>
+         </sourceDesc>
+         <link target="30arbolesConservan.xml"/>
+      </intertext>
+   </text>
+</TEI>
