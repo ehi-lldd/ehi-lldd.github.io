@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Es una tarde cenicienta y mustia</head>
+			<lg xml:id="P0017" type="silva arromanzada">
+				<lg xml:id="P0017E0001" type="serventesio" met="11, 11, 7, 11" rhyme="ABAB">
+					<l xml:id="P0017V0001">Es una <seg type="tag">tarde</seg> cenicienta y m<rhyme label="ustia">ustia</rhyme>,</l>
+					<l xml:id="P0017V0002">destartalada, como el <seg type="tag">alma</seg> m<rhyme label="ía">ía</rhyme>;</l>
+					<l xml:id="P0017V0003">y es esta vieja ang<rhyme label="ustia">ustia</rhyme></l>
+					<l xml:id="P0017V0004">que habita mi usual hipocondr<rhyme label="ía">ía</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0017E0002" type="serventesio" met="11, 11, 11, 11" rhyme="CDCD">
+					<l xml:id="P0017V0005">La causa de esta angustia no cons<rhyme label="igo">igo</rhyme></l>
+					<l xml:id="P0017V0006">ni vagamente comprender siqui<rhyme label="era">era</rhyme>;</l>
+					<l xml:id="P0017V0007">pero recuerdo y, recordando, d<rhyme label="igo">igo</rhyme>:</l>
+					<l xml:id="P0017V0008">—Sí, yo era <seg type="tag">niño</seg>, y tú, mi compañ<rhyme label="era">era</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0017E0003" type="silva arromanzada" met="11, 11, 11, 11" rhyme="-D-D">
+					<l xml:id="P0017V0009">Y no es verdad, <seg type="tag">dolor</seg>, yo te con<rhyme label="ozco">ozco</rhyme>,</l>
+					<l xml:id="P0017V0010">tú eres nostalgia de la vida bu<rhyme label="ena">ena</rhyme></l>
+					<l xml:id="P0017V0011">y soledad de corazón <seg type="tag">sombr<rhyme label="ío">ío</rhyme></seg>,</l>
+					<l xml:id="P0017V0012">de barco sin naufragio y sin estr<rhyme label="ella">ella</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0017E0004" type="silva arromanzada" met="11, 7, 11, 11" rhyme="-d-D">
+					<l xml:id="P0017V0013">Como perro olvidado que no ti<rhyme label="ene">ene</rhyme></l>
+					<l xml:id="P0017V0014">huella ni olfato y y<rhyme label="erra">erra</rhyme></l>
+					<l xml:id="P0017V0015">por los caminos, sin camino, c<rhyme label="omo">omo</rhyme></l>
+					<l xml:id="P0017V0016">el <seg type="tag">niño</seg> que en la noche de una fi<rhyme label="esta">esta</rhyme></l>
+				</lg>
+				<lg xml:id="P0017E0005" type="silva arromanzada" met="7, 11, 11, 11" rhyme="-D-D">
+					<l xml:id="P0017V0017">se pierde entre el gent<rhyme label="ío">ío</rhyme></l>
+					<l xml:id="P0017V0018">y el aire polvoriento y las cand<rhyme label="elas">elas</rhyme></l>
+					<l xml:id="P0017V0019">chispeantes, atónito, y as<rhyme label="ombra">ombra</rhyme></l>
+					<l xml:id="P0017V0020">su corazón de música y de p<rhyme label="ena">ena</rhyme>,</l>
+				</lg>
+				<lg xml:id="P0017E0006" type="silva arromanzada" met="12-1=11, 11, 7, 11" rhyme="-D-D">
+					<l xml:id="P0017V0021">así voy yo, borracho melanc<rhyme label="ólico">ólico</rhyme>,</l>
+					<l xml:id="P0017V0022">guitarrista lunático, po<rhyme label="eta">eta</rhyme>,</l>
+					<l xml:id="P0017V0023">y pobre hombre en <seg type="tag">su<rhyme label="eños">eños</rhyme></seg>,</l>
+					<l xml:id="P0017V0024">siempre buscando a Dios entre la ni<rhyme label="ebla">ebla</rhyme>.</l>
+				</lg>
+			</lg>
+		</body>
+		<intertext>
+  			<head>Ocaso</head>
+  			<p>Poema de Eladio Cabañero. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Eladio Cabañero</author>
+  					<title>Palabra compartida (Antología poética)</title> 
+  					<publisher>Biblioteca de Autores Manchegos</publisher>
+  					<date>2014</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+	</text>
+</TEI>

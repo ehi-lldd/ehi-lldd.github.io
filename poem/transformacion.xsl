@@ -115,7 +115,7 @@ media-type="text/html"/>
 
 <xsl:template match="tei:TEI/tei:text/tei:body/tei:lg">
 	<div class="metrica hidden">
-		<xsl:value-of select="@type"/>
+		<p style="color: blue;"><em>Estrofa</em>: <xsl:value-of select="@type"/></p>
 	</div>
 	<xsl:apply-templates/>
 </xsl:template>

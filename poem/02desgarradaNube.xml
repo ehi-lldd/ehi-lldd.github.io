@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Desgarrada la nube; el arco iris</head>
+			<lg xml:id="P0002" type="silva arromanzada">
+				<lg xml:id="P0002E0001" type="silva arromanzada" met="11, 7, 7, 7" rhyme="-a-a">
+					<l xml:id="P0002V0001">Desgarrada la nube; el arco <rhyme label="iris">iris</rhyme></l>
+					<l xml:id="P0002V0002">brillando ya en el ci<rhyme label="elo">elo</rhyme>,</l>
+					<l xml:id="P0002V0003">y en un fanal de ll<rhyme label="uvia">uvia</rhyme></l>
+					<l xml:id="P0002V0004">y <seg type="tag">sol</seg> el campo envu<rhyme label="elto">elto</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0002E0002" type="silva arromanzada" met="7, 11, 7, 7" rhyme="-A-a">
+					<l xml:id="P0002V0005">Desperté. ¿Quién ent<rhyme label="urbia">urbia</rhyme></l>
+					<l xml:id="P0002V0006">los mágicos cristales de mi <seg type="tag">su<rhyme label="eño">eño</rhyme></seg>?</l>
+					<l xml:id="P0002V0007">Mi corazón lat<rhyme label="ía">ía</rhyme></l>
+					<l xml:id="P0002V0008">atónito y disp<rhyme label="erso">erso</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0002E0003" type="silva arromanzada" met="7, 7, 11, 7" rhyme="-a-a">
+					<l xml:id="P0002V0009">...¡El limonar <seg type="tag">flor<rhyme label="ido">ido</rhyme></seg>,</l>
+					<l xml:id="P0002V0010">el cipresal del hu<rhyme label="erto">erto</rhyme>,</l>
+					<l xml:id="P0002V0011">el prado verde, el <seg type="tag">sol</seg>, el <seg type="tag">agua</seg>, el <rhyme label="iris">iris</rhyme>...!,</l>
+					<l xml:id="P0002V0012">¡el <seg type="tag">agua</seg> en tus cab<rhyme label="ellos">ellos</rhyme>!</l>
+				</lg>
+				<lg xml:id="P0002E0004" type="silva arromanzada" met="11, 11" rhyme="-A">
+					<l xml:id="P0002V0013">Y todo en la memoria se perd<rhyme label="ía">ía</rhyme></l>
+					<l xml:id="P0002V0014">como una pompa de jabón al <seg type="tag">vi<rhyme label="ento">ento</rhyme></seg>.</l>
+				</lg>
+			</lg>
+		</body>
+		<intertext>
+  			<head>Nubes</head>
+  			<p>Poema de Juan Ramón Jiménez. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Juan Ramón Jiménez</author>
+  					<title>Sonetos Espirituales (1914-15)</title> 
+  					<publisher>Facediciones</publisher>
+  					<date>2012</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+	</text>
+</TEI>

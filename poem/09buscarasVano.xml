@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Añado la hoja de estilos enlazada-->
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<!-- Ha desaparecido alguna cosa de la info de TEI: referencias a relaxng y a ehi-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edición hiperintertextual</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+  	<body>
+  		<head>Hoy buscarás en vano</head>
+  		<lg xml:id="P001" type="silva arromanzada">
+  		<lg xml:id="E001" type="pareado" met="7,7" rhyme="-a">
+  			<l xml:id="V001">Hoy buscarás en v<rhyme label="ano">ano</rhyme></l>
+  			<l xml:id="V002">a tu dolor consu<rhyme label="elo">elo</rhyme>.</l>
+  		</lg>
+  		<lg xml:id="E002" type="romance" met="7,7,7,7,7,11" rhyme="-a-a-a">
+  			<l xml:id="V003">Lleváronse tus h<rhyme label="adas">adas</rhyme></l>
+  			<l xml:id="V004">el lino de tus su<rhyme label="eños">eños</rhyme>.</l>
+  			<l xml:id="V005">Está la fuente m<rhyme label="uda">uda</rhyme>,</l>
+  			<l xml:id="V006">y está marchito el <intertext xml:id="INT002" ref="TagRelacional">hu<rhyme label="erto">erto</rhyme></intertext>.</l>
+  			<l xml:id="V007">Hoy sólo quedan l<rhyme label="ágrimas">ágrimas</rhyme></l>
+  			<l xml:id="V008">para llorar. No hay que llorar, ¡sil<rhyme label="encio">encio</rhyme>!</l>
+  		</lg>
+  		</lg>
+    </body>
+
+  	<intertext>
+  			<head>Como una inundación</head>
+  			<p>Poema de Félix Grande. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Félix Grande</author>
+  					<title>Biografía: poesía completa (1958-1984)</title> 
+  					<publisher>Anthropos</publisher>
+  					<date>1989</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+  </text>
+</TEI>
+
+ 

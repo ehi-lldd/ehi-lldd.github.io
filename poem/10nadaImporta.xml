@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Y nada importa ya que el vino de oro</head>
+			<lg xml:id="P0010" type="silva arromanzada">
+				<lg xml:id="P0010E0001" type="silva arromanzada" met="11, 11, 11" rhyme="-a-">
+					<l xml:id="P0010V0001">Y nada importa ya que el vino de <seg type="tag"><rhyme label="oro">oro</rhyme></seg></l>
+					<l xml:id="P0010V0002">rebose de tu copa cristal<rhyme label="ina">ina</rhyme>,</l>
+					<l xml:id="P0010V0003">o el agrio zumo enturbie el puro vaso...</l>
+				</lg>
+				<lg xml:id="P0010E0002" type="silva arromanzada" met="11, 11, 7, 11" rhyme="A-a-">
+					<l xml:id="P0010V0004">Tú sabes las secretas <seg type="tag">galer<rhyme label="ía">ía</rhyme>s</seg></l>
+					<l xml:id="P0010V0005">del <seg type="tag">alma</seg>, los caminos de los <seg type="tag">su<rhyme label="eños">eños</rhyme></seg>,</l>
+					<l xml:id="P0010V0006">y la <seg type="tag">tarde</seg> tranqu<rhyme label="ila">ila</rhyme></l>
+					<l xml:id="P0010V0007">donde van a morir... Allí te agu<rhyme label="ardan">ardan</rhyme></l>
+				</lg>
+				<lg xml:id="P0010E0003" type="silva arromanzada" met="11, 11, 7" rhyme="A-a">
+					<l xml:id="P0010V0008">las hadas silenciosas de la v<rhyme label="ida">ida</rhyme>,</l>
+					<l xml:id="P0010V0009">y hacia un <seg type="tag">jardín</seg> de eterna primav<rhyme label="era">era</rhyme></l>
+					<l xml:id="P0010V0010">te llevarán un d<rhyme label="ía">ía</rhyme>.</l>
+				</lg>
+			</lg>
+		</body>
+		<intertext>
+  			<head>La vida, ahí fuera</head>
+  			<p>Poema de Gabriel Celaya. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Gabriel Celaya</author>
+  					<title>Poemas órficos</title> 
+  					<publisher>Luis López Nieves (Ciudad Seva)</publisher>
+  					<date>2019</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+	</text>
+</TEI>

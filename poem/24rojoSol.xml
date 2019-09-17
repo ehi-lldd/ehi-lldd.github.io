@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>El rojo sol de un sueño en el Oriente asoma</head>
+			<lg xml:id="P0024">
+				<lg xml:id="P0024E0001" type="serventesio" met="13, 14, 13, 14" rhyme="ABAB">
+					<l xml:id="P0024V0001">El rojo <seg type="tag">sol</seg> de un <seg type="tag">sueño</seg> en el Oriente as<rhyme label="oma">oma</rhyme>.</l>
+					<l xml:id="P0024V0002">Luz en <seg type="tag">sueños</seg>. ¿No tiemblas, andante peregr<rhyme label="ino">ino</rhyme>?</l>
+					<l xml:id="P0024V0003">Pasado el llano verde, en la <seg type="tag">florida</seg> l<rhyme label="oma">oma</rhyme>,</l>
+					<l xml:id="P0024V0004">acaso está el cercano final de tu cam<rhyme label="ino">ino</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0024E0002" type="serventesio" met="14, 13+1=14, 14, 13+1=14" rhyme="CDCD">
+					<l xml:id="P0024V0005">Tú no verás del trigo la espiga sazon<rhyme label="ada">ada</rhyme></l>
+					<l xml:id="P0024V0006">y de macizas pomas cargado el manzan<rhyme label="ar">ar</rhyme>,</l>
+					<l xml:id="P0024V0007">ni de la vid rugosa la uva aurirros<rhyme label="ada">ada</rhyme></l>
+					<l xml:id="P0024V0008">ha de exprimir su alegre licor en tu lag<rhyme label="ar">ar</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0024E0003" type="serventesio" met="13, 13+1=14, 14, 13+1=14" rhyme="EFEF">
+					<l xml:id="P0024V0009">Cuando el primer aroma exhalen los jazm<rhyme label="ines">ines</rhyme></l>
+					<l xml:id="P0024V0010">y cuando más palpiten las rosas del am<rhyme label="or">or</rhyme>,</l>
+					<l xml:id="P0024V0011">una mañana de <seg type="tag">oro</seg> que alumbre los <seg type="tag">jard<rhyme label="ines">ines</rhyme></seg>,</l>
+					<l xml:id="P0024V0012">¿no huirá, como una nube dispersa, el <seg type="tag">sueño</seg> en <seg type="tag">fl<rhyme label="or">or</rhyme></seg>?</l>
+				</lg>
+				<lg xml:id="P0024E0004" type="" met="17+1=18, 10, 14, 14" rhyme="-G-G">
+					<l xml:id="P0024V0013">Campo recién <seg type="tag">florido</seg> y verde, ¡quién pudiera soñar a<rhyme label="ún">ún</rhyme></l>
+					<l xml:id="P0024V0014">largo tiempo en esas pequeñ<rhyme label="itas">itas</rhyme></l>
+					<l xml:id="P0024V0015">corolas azuladas que manchan la prad<rhyme label="era">era</rhyme>,</l>
+					<l xml:id="P0024V0016">y en esas diminutas primeras margar<rhyme label="itas">itas</rhyme>!</l>
+				</lg>
+			</lg>
+		</body>
+		<intertext>
+  			<head>XXIX. Caminante, son tus huellas...</head>
+  			<p>Poema de Antonio Machado. Nivel intertextual.</p>
+  			<sourceDesc>
+  				<bibl type="book" subtype="anthology">
+  					<author>Antonio Machado</author>
+  					<title>Poesías completas</title> 
+  					<publisher>Austral</publisher>
+  					<date>2010</date>
+  				</bibl>
+  			</sourceDesc>  		
+  	</intertext>
+	</text>
+</TEI>
