@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Como una inundación</head>
+			<lg xml:id="P0009INT0001" type="silva arromanzada">
+				<lg xml:id="P0009INT0001E0001" type="silva arromanzada" met="7, 7" rhyme="-a">
+					<l xml:id="P0009INT0001V0001">Hoy buscarás en v<rhyme label="ano">ano</rhyme></l>
+					<l xml:id="P0009INT0001V0002">a tu <seg type="tag">dolor</seg> consu<rhyme label="elo">elo</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0002" type="silva arromanzada" met="7, 7, 14, 7, 7, 11" rhyme="-a-a-A">
+					<l xml:id="P0009INT0001V0003">(De pronto has record<rhyme label="ado">ado</rhyme></l>
+					<l xml:id="P0009INT0001V0004">aquellos magos v<rhyme label="ersos">ersos</rhyme></l>
+					<l xml:id="P0009INT0001V0005">y adviertes que han venido como llega un des<rhyme label="astre">astre</rhyme>;</l>
+					<l xml:id="P0009INT0001V0006">excavando en el p<rhyme label="echo">echo</rhyme>,</l>
+					<l xml:id="P0009INT0001V0007">excavando en el <seg type="tag"><rhyme label="alma">alma</rhyme></seg></l>
+					<l xml:id="P0009INT0001V0008">para acostarse sobre el aguj<rhyme label="ero">ero</rhyme>.)</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0003" type="silva arromanzada" met="7, 7" rhyme="-a">
+					<l xml:id="P0009INT0001V0009">Hoy buscarás en v<rhyme label="ano">ano</rhyme></l>
+					<l xml:id="P0009INT0001V0010">a tu <seg type="tag">dolor</seg> consu<rhyme label="elo">elo</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0004" type="silva arromanzada" met="14, 14, 14, 14, 14, 14" rhyme="-A-A-A">
+					<l xml:id="P0009INT0001V0011">(Palabras que se acercan a tus calamid<rhyme label="ades">ades</rhyme></l>
+					<l xml:id="P0009INT0001V0012">y con piedad <seg type="tag">sombría</seg> las cubren de sil<rhyme label="encio">encio</rhyme>;</l>
+					<l xml:id="P0009INT0001V0013">palabras que te cantan una nana muy qui<rhyme label="eta">eta</rhyme>,</l>
+					<l xml:id="P0009INT0001V0014">palabras que te suben el embozo hasta el cu<rhyme label="ello">ello</rhyme>;</l>
+					<l xml:id="P0009INT0001V0015">palabras que te invitan a dormir las dos si<rhyme label="enes">enes</rhyme></l>
+					<l xml:id="P0009INT0001V0016">y mamar, como un <seg type="tag">niño</seg>, de la teta del <seg type="tag">su<rhyme label="eño">eño</rhyme></seg>.)</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0005" type="silva arromanzada" met="7, 7" rhyme="-a">
+					<l xml:id="P0009INT0001V0017">Hoy buscarás en v<rhyme label="ano">ano</rhyme></l>
+					<l xml:id="P0009INT0001V0018">a tu <seg type="tag">dolor</seg> consu<rhyme label="elo">elo</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0006" type="silva arromanzada" met="7, 7, 14, 14, 7, 7, 14, 7" rhyme="-a-A-a-a">
+					<l xml:id="P0009INT0001V0019">(Te ha rodeado la v<rhyme label="ida">ida</rhyme>,</l>
+					<l xml:id="P0009INT0001V0020">o la muerte, o el ti<rhyme label="empo">empo</rhyme></l>
+					<l xml:id="P0009INT0001V0021">como una inundación o como un terrem<rhyme label="oto">oto</rhyme>,</l>
+					<l xml:id="P0009INT0001V0022">como una asfixia vasta o como un vasto ej<rhyme label="ército">ército</rhyme>,</l>
+					<l xml:id="P0009INT0001V0023">como una oscura c<rhyme label="árcel">árcel</rhyme>,</l>
+					<l xml:id="P0009INT0001V0024">como un oscuro invi<rhyme label="erno">erno</rhyme>;</l>
+					<l xml:id="P0009INT0001V0025">y estás inerme, estás perdido, estás sum<rhyme label="ado">ado</rhyme>;</l>
+					<l xml:id="P0009INT0001V0026">encanecido; vi<rhyme label="ejo">ejo</rhyme>.)</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0007" type="silva arromanzada" met="7, 7" rhyme="-a">
+					<l xml:id="P0009INT0001V0027">Hoy buscarás en v<rhyme label="ano">ano</rhyme></l>
+					<l xml:id="P0009INT0001V0028">a tu <seg type="tag">dolor</seg> consu<rhyme label="elo">elo</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0008" type="silva arromanzada" met="14, 14, 14, 14, 14, 14" rhyme="-A-A-A">
+					<l xml:id="P0009INT0001V0029">(Te queda la vergüenza de saber que te qui<rhyme label="eren">eren</rhyme>,</l>
+					<l xml:id="P0009INT0001V0030">que algunos seres raros, fraternales y t<rhyme label="ercos">ercos</rhyme></l>
+					<l xml:id="P0009INT0001V0031">miran tu calavera con ilusión y al<rhyme label="arma">arma</rhyme>;</l>
+					<l xml:id="P0009INT0001V0032">las cuencas de tus ojos, con paciencia y con mi<rhyme label="edo">edo</rhyme>.</l>
+					<l xml:id="P0009INT0001V0033">Miran a tu vivir como mira un disp<rhyme label="aro">aro</rhyme>.</l>
+					<l xml:id="P0009INT0001V0034">—Te hiere ya el amor como te hiere el ti<rhyme label="empo">empo</rhyme>—.</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0009" type="silva arromanzada" met="14, 14, 14, 14, 7, 7" rhyme="-A-A-a">
+					<l xml:id="P0009INT0001V0035">Pero estás rodeado de anochecer y ni<rhyme label="eve">eve</rhyme>,</l>
+					<l xml:id="P0009INT0001V0036">todos tus poros sorben el frío del univ<rhyme label="erso">erso</rhyme>,</l>
+					<l xml:id="P0009INT0001V0037">ya el labio inferior tienes sumergido en la n<rhyme label="ada">ada</rhyme>,</l>
+					<l xml:id="P0009INT0001V0038">ya el olvido se acerca descomunal y l<rhyme label="ento">ento</rhyme></l>
+					<l xml:id="P0009INT0001V0039">como una densa ni<rhyme label="ebla">ebla</rhyme></l>
+					<l xml:id="P0009INT0001V0040">o un megaterio ci<rhyme label="ego">ego</rhyme>.)</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0010" type="silva arromanzada" met="7, 7" rhyme="-a">
+					<l xml:id="P0009INT0001V0041">Hoy buscarás en v<rhyme label="ano">ano</rhyme></l>
+					<l xml:id="P0009INT0001V0042">a tu <seg type="tag">dolor</seg> consu<rhyme label="elo">elo</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0009INT0001E0011" type="silva arromanzada" met="14, 14, 13+1=14, 14, 14, 14" rhyme="-A-A-A">
+					<l xml:id="P0009INT0001V0043">(Nada les das a quienes te miran sin ped<rhyme label="irte">irte</rhyme>,</l>
+					<l xml:id="P0009INT0001V0044">nada les puedes dar más que vejez y <seg type="tag">su<rhyme label="eño">eño</rhyme></seg>.</l>
+					<l xml:id="P0009INT0001V0045">Hoy buscarás en vano consuelo a tu <seg type="tag">dol<rhyme label="or">or</rhyme></seg></l>
+					<l xml:id="P0009INT0001V0046">y a tu vergüenza. Hoy tienes cerrado ya el sil<rhyme label="encio">encio</rhyme>,</l>
+					<l xml:id="P0009INT0001V0047">con una suave angustia deambulando por fu<rhyme label="era">era</rhyme>,</l>
+					<l xml:id="P0009INT0001V0048">con una angustia horrible deambulando por d<rhyme label="entro">entro</rhyme>.)</l>
+				</lg>
+			</lg>
+			<div xml:id="P0009" type="intertext">
+				<head>Introducción a los sueños</head>
+				<p>Poema de Antonio Machado. Nivel intertextual.</p>
+				<sourceDesc>
+					<bibl type="book" subtype="poetry">
+						<author>Antonio Machado</author>
+						<title>Soledades. Galerías. Otros poemas</title>
+						<publisher>Librería de Pueyo</publisher>
+						<date>1907</date>
+					</bibl>
+				</sourceDesc>
+			</div>
+		</body>
+	</text>
+</TEI>

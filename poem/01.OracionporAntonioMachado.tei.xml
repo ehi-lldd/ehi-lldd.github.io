@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Oración por Antonio Machado</head>
+			<lg xml:id="INT0002P0001" type="silva modernista arromanzada">
+				<lg xml:id="INT0002P0001E0001" type="silva modernista arromanzada" met="8, 7+1=8, 9, 8+1=9, 9, 8+1=9, 9, 8+1=9, 9, 8+1=9, 9, 8+1=9, 9, 8+1=9, 9, 8+1=9, 9, 8+1=9, 9, 8+1=9, 9, 8+1=9" rhyme="-a-A-A-A-A-A-A-A-A-A-A">
+					<l xml:id="INT0002P0001V0001">Misterioso y silenci<rhyme label="oso">oso</rhyme></l>
+					<l xml:id="INT0002P0001V0002">iba una y otra v<rhyme label="ez">ez</rhyme>.</l>
+					<l xml:id="INT0002P0001V0003">Su mirada era tan prof<rhyme label="unda">unda</rhyme></l>
+					<l xml:id="INT0002P0001V0004">que apenas se podía v<rhyme label="er">er</rhyme>.</l>
+					<l xml:id="INT0002P0001V0005">Cuando hablaba tenía un d<rhyme label="ejo">ejo</rhyme></l>
+					<l xml:id="INT0002P0001V0006">de timidez y de altiv<rhyme label="ez">ez</rhyme>.</l>
+					<l xml:id="INT0002P0001V0007">Y la luz de sus pensami<rhyme label="entos">entos</rhyme></l>
+					<l xml:id="INT0002P0001V0008">casi siempre se veía ard<rhyme label="er">er</rhyme>.</l>
+					<l xml:id="INT0002P0001V0009">Era luminoso y prof<rhyme label="undo">undo</rhyme></l>
+					<l xml:id="INT0002P0001V0010">como era hombre de buena f<rhyme label="e">e</rhyme>.</l>
+					<l xml:id="INT0002P0001V0011">Fuera pastor de mil le<rhyme label="ones">ones</rhyme></l>
+					<l xml:id="INT0002P0001V0012">y de corderos a la v<rhyme label="ez">ez</rhyme>.</l>
+					<l xml:id="INT0002P0001V0013">Conduciría tempest<rhyme label="ades">ades</rhyme></l>
+					<l xml:id="INT0002P0001V0014">o traería un panal de mi<rhyme label="el">el</rhyme>.</l>
+					<l xml:id="INT0002P0001V0015">Las maravillas de la v<rhyme label="ida">ida</rhyme></l>
+					<l xml:id="INT0002P0001V0016">y del amor y del plac<rhyme label="er">er</rhyme>,</l>
+					<l xml:id="INT0002P0001V0017">cantaba en versos prof<rhyme label="undos">undos</rhyme></l>
+					<l xml:id="INT0002P0001V0018">cuyo secreto era de <rhyme label="él">él</rhyme>.</l>
+					<l xml:id="INT0002P0001V0019">Montado en un raro Peg<rhyme label="aso">aso</rhyme>,</l>
+					<l xml:id="INT0002P0001V0020">un día al imposible se fu<rhyme label="e">e</rhyme>.</l>
+					<l xml:id="INT0002P0001V0021">Ruego por Antonio a mis di<rhyme label="oses">oses</rhyme>,</l>
+					<l xml:id="INT0002P0001V0022">ellos le salven siempre. Am<rhyme label="én">én</rhyme>.</l>
+				</lg>
+			</lg>
+			<div xml:id="P0001" type="intertext">
+				<head>Introducción a los sueños</head>
+				<p>Poema de Antonio Machado. Nivel intertextual.</p>
+				<sourceDesc>
+					<bibl type="book" subtype="poetry">
+						<author>Antonio Machado</author>
+						<title>Soledades. Galerías. Otros poemas</title>
+						<publisher>Librería de Pueyo</publisher>
+						<date>1907</date>
+					</bibl>
+				</sourceDesc>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Ocaso</head>
+			<lg xml:id="P0017INT0001" type="soneto">
+				<lg xml:id="P0017INT0001E0001" type="cuarteto" met="11, 11, 11, 11" rhyme="ABBA">
+					<l xml:id="P0017INT0001V0001">El hombre hacia el Ocaso es una hogu<rhyme label="era">era</rhyme></l>
+					<l xml:id="P0017INT0001V0002">que el <seg type="tag">viento</seg> —el tiempo en crines extend<rhyme label="idas">idas</rhyme>—</l>
+					<l xml:id="P0017INT0001V0003">arrastra a galopar lejos, sin br<rhyme label="idas">idas</rhyme>,</l>
+					<l xml:id="P0017INT0001V0004">como un caballo oscuro, a la carr<rhyme label="era">era</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0017INT0001E0002" type="cuarteto" met="11, 11, 11, 11" rhyme="ABBA">
+					<l xml:id="P0017INT0001V0005">Como una oculta nave timon<rhyme label="era">era</rhyme></l>
+					<l xml:id="P0017INT0001V0006">repta sus <seg type="tag">aguas</seg>. No sabe qué her<rhyme label="idas">idas</rhyme></l>
+					<l xml:id="P0017INT0001V0007">le duelen más, qué muertes ni qué v<rhyme label="idas">idas</rhyme>,</l>
+					<l xml:id="P0017INT0001V0008">sólo como una piedra de cant<rhyme label="era">era</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0017INT0001E0003" type="terceto" met="11, 11, 11" rhyme="CDE">
+					<l xml:id="P0017INT0001V0009">Lleva un trozo de amor deshilach<rhyme label="ado">ado</rhyme></l>
+					<l xml:id="P0017INT0001V0010">en los bolsillos, sueña el ciego anh<rhyme label="elo">elo</rhyme></l>
+					<l xml:id="P0017INT0001V0011">de encomendar a un hijo esta avent<rhyme label="ura">ura</rhyme>.</l>
+				</lg>
+				<lg xml:id="P0017INT0001E0004" type="terceto" met="11, 11, 11" rhyme="CDE">
+					<l xml:id="P0017INT0001V0012">A veces es un perro apale<rhyme label="ado">ado</rhyme></l>
+					<l xml:id="P0017INT0001V0013">que arrastra su <seg type="tag">dolor</seg>, pegado al su<rhyme label="elo">elo</rhyme>,</l>
+					<l xml:id="P0017INT0001V0014">oliendo ya su propia sepult<rhyme label="ura">ura</rhyme>.</l>
+				</lg>
+			</lg>
+			<div xml:id="P0017" type="intertext">
+				<head>Es una tarde cenicienta y mustia</head>
+				<p>Poema de Antonio Machado. Nivel intertextual.</p>
+				<sourceDesc>
+					<bibl type="book" subtype="poetry">
+						<author>Antonio Machado</author>
+						<title>Soledades. Galerías. Otros poemas</title>
+						<publisher>Librería de Pueyo</publisher>
+						<date>1907</date>
+					</bibl>
+				</sourceDesc>
+			</div>
+		</body>
+	</text>
+</TEI>
