@@ -3,8 +3,8 @@
 
 /**Para el Javascript**/
 
-.red {
-	color: red;
+.colorrima {
+	color: #bf00ff;
 }
 
 .hidden {
@@ -157,8 +157,6 @@
     font-size: 2.56rem;
 }
 
-
-
 /**Menú edición**/
 
 .o-listadomenu {
@@ -273,4 +271,3 @@
 	border-left: 3px solid #ae3333;
 	padding: 0px 20px;
 }
-

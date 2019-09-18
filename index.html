@@ -4,18 +4,27 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="/css/style.css">
-        <link rel="stylesheet" type="text/css" href="/css/xslstyle.css">
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+        <link rel="stylesheet" type="text/css" href="./css/xslstyle.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script src="code.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
-        <title>Index</title>
+        <title>Inicio - Machado Hiperintertextual</title>
+        <style type="text/css">
+        .bg-cover {
+            background-image: url('./img/jumbackground3.png');
+            background-repeat: no-repeat;
+            background-position: right bottom;
+            margin-top: 4%;
+        }
+        </style>
 	</head>
 	<body class="d-flex flex-column">
+
+        <!-- Barra de navegación -->
         <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
             <a class="navbar-brand" href="#">
-                <img src="/img/logoUCM.png" width="40" height="40" alt="Logo UCM"/>
+                <img src="./img/logoUCM.png" width="40" height="40" alt="Logo UCM"/>
                 TFM LLDD
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,7 +33,7 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="./index.html">Índice<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="./index.html">Índice <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./edicion.html">Edición</a>
@@ -35,12 +44,15 @@
                 </ul>
             </div>
         </nav>
-        <div class="jumbotron" style="background: url(./img/jumbackground.png) fixed no-repeat; width: 100%; height: auto;">
+
+        <!-- Jumbotron -->
+        <div class="jumbotron jumbotron-fluid bg-cover">
             <div class="container">
                 <h1 class="display-4">Machado hiperintertextual</h1>
                     <p class="lead">Prototipo web de implementación de los contenidos y posibilidades de una edición hiperintertextual.</p>
-            </div>   
+            </div>
         </div>
+
         <div class="container">
         <div class="row">
         <div class="col-md-6">

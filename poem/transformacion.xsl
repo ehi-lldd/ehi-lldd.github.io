@@ -39,9 +39,9 @@ media-type="text/html"/>
 			<!-- <title><xsl:value-of select="tei:TEI/tei:text/tei:body/tei:head"/></title> -->
 		</head>
 
-		<body>
+		<body class="xsl">
 				<!--Barra de navegación-->
-				<nav class="navbar navbar-expand-md navbar-light bg-light">
+				<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
 		            <a class="navbar-brand" href="#">
 		                <img src="../img/logoUCM.png" width="40" height="40" alt="Logo UCM"/>
 		                TFM LLDD
@@ -58,7 +58,7 @@ media-type="text/html"/>
 			                    <a class="nav-link" href="../index.html">Índice</a>
 			                </li>
 			                <li class="nav-item active">
-			                    <a class="nav-link" href="../edicion.html">Edición<span class="sr-only">(current)</span></a>
+			                    <a class="nav-link" href="../edicion.html">Edición <span class="sr-only">(current)</span></a>
 			                </li>
 			                <li class="nav-item">
 			                    <a class="nav-link" href="../desarrolladoras.html">Sobre nosotras</a>
@@ -66,7 +66,7 @@ media-type="text/html"/>
             			</ul>
         			</div>
     			</nav>
-				<div class="container">
+				<div class="container" style="margin-top: 8%;">
 						<div class="row separador">
 							<div class="col-md-8">
 								<div class="container">
@@ -154,7 +154,7 @@ media-type="text/html"/>
 	</xsl:for-each>
 </xsl:template>
 
-<xsl:template match="tei:link"><a href="{@target}" class="btn btn-primary btn-block">
+<xsl:template match="tei:link"><a href="{@target}" class="btn btn-info btn-block">
 	<xsl:value-of select="."/>
 	Leer intertexto</a>
 </xsl:template>

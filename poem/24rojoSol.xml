@@ -17,7 +17,7 @@
 	<text>
 		<body>
 			<head>El rojo sol de un sueño en el Oriente asoma</head>
-			<lg xml:id="P0024">
+			<lg xml:id="P0024" type="">
 				<lg xml:id="P0024E0001" type="serventesio" met="13, 14, 13, 14" rhyme="ABAB">
 					<l xml:id="P0024V0001">El rojo <seg type="tag">sol</seg> de un <seg type="tag">sueño</seg> en el Oriente as<rhyme label="oma">oma</rhyme>.</l>
 					<l xml:id="P0024V0002">Luz en <seg type="tag">sueños</seg>. ¿No tiemblas, andante peregr<rhyme label="ino">ino</rhyme>?</l>
