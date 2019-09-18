@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Los cantos de los niños</head>
+         <lg xml:id="P0006INT0001" type="romance endecha">
+            <lg xml:id="P0006INT0001E0001">
+               <l xml:id="P0006INT0001V0001">Yo escucho los c<rhyme>antos</rhyme></l>
+               <l xml:id="P0006INT0001V0002">de viejas cad<rhyme>encias</rhyme>,</l>
+               <l xml:id="P0006INT0001V0003">que los niños c<rhyme>antan</rhyme></l>
+               <l xml:id="P0006INT0001V0004">cuando en coro ju<rhyme>egan</rhyme>,</l>
+               <l xml:id="P0006INT0001V0005">y vierten en c<rhyme>oro</rhyme></l>
+               <l xml:id="P0006INT0001V0006">sus almas que su<rhyme>eñan</rhyme>,</l>
+               <l xml:id="P0006INT0001V0007">cual vierten sus <rhyme>aguas</rhyme></l>
+               <l xml:id="P0006INT0001V0008">las fuentes de pi<rhyme>edra</rhyme>:</l>
+               <l xml:id="P0006INT0001V0009">con monoton<rhyme>ías</rhyme></l>
+               <l xml:id="P0006INT0001V0010">de risas et<rhyme>ernas</rhyme>,</l>
+               <l xml:id="P0006INT0001V0011">que no son al<rhyme>egres</rhyme>,</l>
+               <l xml:id="P0006INT0001V0012">con lágrimas vi<rhyme>ejas</rhyme>,</l>
+               <l xml:id="P0006INT0001V0013">que no son am<rhyme>argas</rhyme></l>
+               <l xml:id="P0006INT0001V0014">y dicen trist<rhyme>ezas</rhyme>,</l>
+               <l xml:id="P0006INT0001V0015">tristezas de am<rhyme>ores</rhyme></l>
+               <l xml:id="P0006INT0001V0016">de antiguas ley<rhyme>endas</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0006INT0001E0002">
+               <l xml:id="P0006INT0001V0017">En los labios n<rhyme>iños</rhyme>,</l>
+               <l xml:id="P0006INT0001V0018">las canciones ll<rhyme>evan</rhyme></l>
+               <l xml:id="P0006INT0001V0019">confusa la hist<rhyme>oria</rhyme></l>
+               <l xml:id="P0006INT0001V0020">y clara la p<rhyme>ena</rhyme>;</l>
+               <l xml:id="P0006INT0001V0021">como clara el <rhyme>agua</rhyme></l>
+               <l xml:id="P0006INT0001V0022">lleva su cons<rhyme>eja</rhyme></l>
+               <l xml:id="P0006INT0001V0023">de viejos am<rhyme>ores</rhyme>,</l>
+               <l xml:id="P0006INT0001V0024">que nunca se cu<rhyme>entan</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0006INT0001E0003">
+               <l xml:id="P0006INT0001V0025">Jugando, a la s<rhyme>ombra</rhyme></l>
+               <l xml:id="P0006INT0001V0026">de una plaza vi<rhyme>eja</rhyme>,</l>
+               <l xml:id="P0006INT0001V0027">los niños cant<rhyme>aban</rhyme>...</l>
+            </lg>
+            <lg xml:id="P0006INT0001E0004">
+               <l xml:id="P0006INT0001V0028">La fuente de pi<rhyme>edra</rhyme></l>
+               <l xml:id="P0006INT0001V0029">vertía su et<rhyme>erno</rhyme></l>
+               <l xml:id="P0006INT0001V0030">cristal de ley<rhyme>enda</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0006INT0001E0005">
+               <l xml:id="P0006INT0001V0031">Cantaban los n<rhyme>iños</rhyme></l>
+               <l xml:id="P0006INT0001V0032">canciones ing<rhyme>enuas</rhyme>,</l>
+               <l xml:id="P0006INT0001V0033">de un algo que p<rhyme>asa</rhyme></l>
+               <l xml:id="P0006INT0001V0034">y que nunca ll<rhyme>ega</rhyme>:</l>
+               <l xml:id="P0006INT0001V0035">la historia conf<rhyme>usa</rhyme></l>
+               <l xml:id="P0006INT0001V0036">y clara la p<rhyme>ena</rhyme>.</l>
+            </lg>
+            <lg xml:id="P0006INT0001E0006">
+               <l xml:id="P0006INT0001V0037">Seguía su cu<rhyme>ento</rhyme></l>
+               <l xml:id="P0006INT0001V0038">la fuente ser<rhyme>ena</rhyme>;</l>
+               <l xml:id="P0006INT0001V0039">borraba la hist<rhyme>oria</rhyme>,</l>
+               <l xml:id="P0006INT0001V0040">contaba la p<rhyme>ena</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+      <intertext>
+         <head>Y esos niños en hilera</head>
+         <p>Poema de Antonio Machado. Nivel intertextual.</p>
+         <sourceDesc>
+            <bibl type="book" subtype="poetry">
+               <author>Antonio Machado</author>
+               <title>Soledades. Galerías. Otros poemas</title>
+               <publisher>Librería de Pueyo</publisher>
+               <date>1907</date>
+            </bibl>
+         </sourceDesc>
+         <link target="06ni%C3%B1osHilera.xml"/>
+      </intertext>
+   </text>
+</TEI>

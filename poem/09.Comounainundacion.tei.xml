@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../transformacion.xsl"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -89,18 +89,19 @@
 					<l xml:id="P0009INT0001V0048">con una angustia horrible deambulando por d<rhyme label="entro">entro</rhyme>.)</l>
 				</lg>
 			</lg>
-			<div xml:id="P0009" type="intertext">
-				<head>Introducción a los sueños</head>
-				<p>Poema de Antonio Machado. Nivel intertextual.</p>
-				<sourceDesc>
-					<bibl type="book" subtype="poetry">
-						<author>Antonio Machado</author>
-						<title>Soledades. Galerías. Otros poemas</title>
-						<publisher>Librería de Pueyo</publisher>
-						<date>1907</date>
-					</bibl>
-				</sourceDesc>
-			</div>
 		</body>
+		<intertext>
+			<head>Introducción a los sueños</head>
+			<p>Poema de Antonio Machado. Nivel intertextual.</p>
+			<sourceDesc>
+				<bibl type="book" subtype="poetry">
+					<author>Antonio Machado</author>
+					<title>Soledades. Galerías. Otros poemas</title>
+					<publisher>Librería de Pueyo</publisher>
+					<date>1907</date>
+				</bibl>
+			</sourceDesc>
+			<link target="09buscarasVano.xml"/>
+		</intertext>
 	</text>
 </TEI>

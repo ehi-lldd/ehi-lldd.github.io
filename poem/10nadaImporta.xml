@@ -46,7 +46,8 @@
   					<publisher>Luis López Nieves (Ciudad Seva)</publisher>
   					<date>2019</date>
   				</bibl>
-  			</sourceDesc>  		
+  			</sourceDesc>
+		<link target="10.vidaAhiFuera.tei.xml"/>
   	</intertext>
 	</text>
 </TEI>

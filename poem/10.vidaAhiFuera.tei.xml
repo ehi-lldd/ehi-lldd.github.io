@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:ehi="http://www.ehi.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>La vida, ahí fuera</head>
+         <lg xml:id="P0010INT0001" type="">
+            <lg xml:id="P0010INT0001E0001">
+               <l xml:id="P0010INT0001V0001">Esa vida que no es mía y me rod<rhyme>ea</rhyme>,</l>
+               <l xml:id="P0010INT0001V0002">el misterio de la muerte, lo que llamamos la mu<rhyme>erte</rhyme></l>
+               <l xml:id="P0010INT0001V0003">y el misterio de la vida siempre abi<rhyme>erta</rhyme>,</l>
+               <l xml:id="P0010INT0001V0004">lo que llamamos la v<rhyme>ida</rhyme></l>
+               <l xml:id="P0010INT0001V0005">en el árbol, en las nubes y en el <rhyme>agua</rhyme>,</l>
+               <l xml:id="P0010INT0001V0006">y en el viento y en el mundo que es quien es sin ser hum<rhyme>ano</rhyme>,</l>
+               <l xml:id="P0010INT0001V0007">y en la inmensa transparencia que no se dice, se mu<rhyme>estra</rhyme></l>
+               <l xml:id="P0010INT0001V0008">en eso que busqué tanto y ahora encuentro regres<rhyme>ando</rhyme>:</l>
+               <l xml:id="P0010INT0001V0009">La infancia, quizá, la infancia, nuestro final seg<rhyme>uro</rhyme>,</l>
+               <l xml:id="P0010INT0001V0010">nuestro cuento, nuestro canto, nuestra mágica conci<rhyme>encia</rhyme>:</l>
+               <l xml:id="P0010INT0001V0011">El total de lo sin fin y de la vida abi<rhyme>erta</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+      <intertext>
+         <head>Y nada importa ya que el vino de oro</head>
+         <p>Poema de Antonio Machado. Nivel intertextual.</p>
+         <sourceDesc>
+            <bibl type="book" subtype="poetry">
+               <author>Antonio Machado</author>
+               <title>Soledades. Galerías. Otros poemas</title>
+               <publisher>Librería de Pueyo</publisher>
+               <date>1907</date>
+            </bibl>
+         </sourceDesc>
+         <link target="10nadaImporta.xml"/>
+      </intertext>
+   </text>
+</TEI>

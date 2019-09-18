@@ -88,7 +88,8 @@
   					<publisher>Austral</publisher>
   					<date>2010</date>
   				</bibl>
-  			</sourceDesc>  		
-  	</intertext>
+  			</sourceDesc>
+			<link target="01.Ennuestrasalmastodo.tei.xml"/>
+  		</intertext>
 	</text>
 </TEI>
