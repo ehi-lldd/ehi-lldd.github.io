@@ -17,8 +17,8 @@
    <text>
       <body>
          <head>La vida, ahí fuera</head>
-         <lg xml:id="P0010INT0001" type="">
-            <lg xml:id="P0010INT0001E0001">
+         <lg xml:id="P0010INT0001" type="poema de verso libre, con rima asonante">
+            <lg xml:id="P0010INT0001E0001" type="estrofa de verso libre, con asonantes" met="12, 16, 12, 8, 12, 15, 16, 16, 15, 16, 14" rhyme="A,-,A,-,-,-,A,-,-,-,A">
                <l xml:id="P0010INT0001V0001">Esa vida que no es mía y me rod<rhyme>ea</rhyme>,</l>
                <l xml:id="P0010INT0001V0002">el misterio de la muerte, lo que llamamos la mu<rhyme>erte</rhyme></l>
                <l xml:id="P0010INT0001V0003">y el misterio de la vida siempre abi<rhyme>erta</rhyme>,</l>
