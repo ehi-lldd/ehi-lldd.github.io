@@ -17,7 +17,7 @@
 	<text>
 		<body>
 			<head>Y esos niños en hilera</head>
-			<lg xml:id="P0006">
+			<lg xml:id="P0006" type="">
 				<lg xml:id="P0006E0001" type="tercetillo" met="8, 8, 8" rhyme="a-a">
 					<l xml:id="P0006V0001">¡Y esos <seg type="tag">niños</seg> en hil<rhyme label="era">era</rhyme>,</l>
 					<l xml:id="P0006V0002">llevando el <seg type="tag">sol</seg> de la <seg type="tag">t<rhyme label="arde">arde</rhyme></seg></l>

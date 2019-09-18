@@ -3,7 +3,7 @@ function changecolor() {
   
   var i;
   for (i = 0; i < x.length; i++) {
-  	x[i].classList.toggle("red");
+  	x[i].classList.toggle("colorrima");
   }
 }
 
