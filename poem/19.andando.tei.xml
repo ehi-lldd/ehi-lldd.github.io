@@ -18,25 +18,25 @@
       <body>
          <head>Andando (sueño)</head>
          <lg xml:id="P0019INT0001" type="">
-            <lg xml:id="P0019INT0001E0001">
+            <lg xml:id="P0019INT0001E0001" type="estribillo" met="5, 8, 9" rhyme="a,a,a">
                <l xml:id="P0019INT0001V0001">Andando, and<rhyme>ando</rhyme>;</l>
                <l xml:id="P0019INT0001V0002">que quiero oír cada gr<rhyme>ano</rhyme></l>
                <l xml:id="P0019INT0001V0003">de la arena que voy pis<rhyme>ando</rhyme>.</l>
-               <l xml:id="P0019INT0001V0004">Andando, and<rhyme>ando</rhyme>;</l>
             </lg>
-            <lg xml:id="P0019INT0001E0002">
-               <l xml:id="P0019INT0001V0005">dejad atrás los cab<rhyme>allos</rhyme>,</l>
+            <lg xml:id="P0019INT0001E0002" type="estancia" met="5, 8, 9, 5, 8, 9" rhyme="a,a,a,a,a,a">
+               <l xml:id="P0019INT0001V0004">And<rhyme>ando</rhyme>.</l>
+               <l xml:id="P0019INT0001V0005">Dejad atrás los cab<rhyme>allos</rhyme>,</l>
                <l xml:id="P0019INT0001V0006">que yo quiero llegar tard<rhyme>ando</rhyme></l>
-               <l xml:id="P0019INT0001V0007">-andando, and<rhyme>ando</rhyme>-,</l>
+               <l xml:id="P0019INT0001V0007">(andando, and<rhyme>ando</rhyme>),</l>
                <l xml:id="P0019INT0001V0008">dar mi alma a cada gr<rhyme>ano</rhyme></l>
-               <l xml:id="P0019INT0001V0009">de la tierra que voy pis<rhyme>ando</rhyme>.</l>
+               <l xml:id="P0019INT0001V0009">de la tierra que voy roz<rhyme>ando</rhyme>.</l>
             </lg>
-            <lg xml:id="P0019INT0001E0003">
+            <lg xml:id="P0019INT0001E0003" type="estribillo" met="5, 8, 9" rhyme="a,a,a">
                <l xml:id="P0019INT0001V0010">Andando, and<rhyme>ando</rhyme>.</l>
                <l xml:id="P0019INT0001V0011">¡Qué dulce entrada en mi c<rhyme>ampo</rhyme>,</l>
                <l xml:id="P0019INT0001V0012">noche inmensa que vas baj<rhyme>ando</rhyme>!</l>
             </lg>
-            <lg xml:id="P0019INT0001E0004">
+            <lg xml:id="P0019INT0001E0004" type="estancia" met="5, 8, 9, 5, 8, 9" rhyme="a,a,a,a,a,a">
                <l xml:id="P0019INT0001V0013">Andando, and<rhyme>ando</rhyme>.</l>
                <l xml:id="P0019INT0001V0014">Mi corazón ya es rem<rhyme>anso</rhyme>;</l>
                <l xml:id="P0019INT0001V0015">ya soy lo que me está esper<rhyme>ando</rhyme></l>
@@ -44,7 +44,7 @@
                <l xml:id="P0019INT0001V0017">y mi pie parece, c<rhyme>álido</rhyme>,</l>
                <l xml:id="P0019INT0001V0018">que me está el corazón bes<rhyme>ando</rhyme>.</l>
             </lg>
-            <lg xml:id="P0019INT0001E0005">
+            <lg xml:id="P0019INT0001E0005" type="estribillo" met="5, 8, 9" rhyme="a,a,a">
                <l xml:id="P0019INT0001V0019">Andando, and<rhyme>ando</rhyme>;</l>
                <l xml:id="P0019INT0001V0020">¡que quiero ver todo el ll<rhyme>anto</rhyme></l>
                <l xml:id="P0019INT0001V0021">del camino que estoy cant<rhyme>ando</rhyme>!</l>
