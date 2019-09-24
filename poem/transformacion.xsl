@@ -80,11 +80,6 @@ media-type="text/html"/>
 										<button onclick="showmetrica()" id="metrica" type="button" class="btn btn-info btn-block">Métrica</button>
 									</div>
 								</div>
-								<div class="card">
-									<div class="card-body">
-										Aquí irían las tags.
-									</div>
-								</div>
 							</div>
 						</div>
 						<hr/>
