@@ -39,7 +39,7 @@ media-type="text/html"/>
 			<!-- <title><xsl:value-of select="tei:TEI/tei:text/tei:body/tei:head"/></title> -->
 		</head>
 
-		<body class="xsl">
+		<body>
 				<!--Barra de navegación-->
 				<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
 		            <a class="navbar-brand" href="#">
