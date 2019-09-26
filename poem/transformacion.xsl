@@ -37,6 +37,7 @@ media-type="text/html"/>
 	        	Transformado automáticamente de XML TEI anotado a HTML	
 	        </title>
 			<!-- <title><xsl:value-of select="tei:TEI/tei:text/tei:body/tei:head"/></title> -->
+		<script src="https://hypothes.is/embed.js" async></script>
 		</head>
 
 		<body class="xsl">
