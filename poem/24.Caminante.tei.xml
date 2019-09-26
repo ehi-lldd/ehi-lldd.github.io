@@ -17,8 +17,8 @@
    <text>
       <body>
          <head>Caminante, son tus huellas</head>
-         <lg xml:id="P0024INT0001" type="">
-            <lg xml:id="P0024INT0001E0001">
+         <lg xml:id="P0024INT0001" type="romance">
+            <lg xml:id="P0024INT0001E0001" type="romance" met="8,8,8,8,8,8,8,8,8,8" rhyme="-,a">
                <l xml:id="P0024INT0001V0001">Caminante, son tus hu<rhyme>ellas</rhyme></l>
                <l xml:id="P0024INT0001V0002">el camino y nada m<rhyme>ás</rhyme>;</l>
                <l xml:id="P0024INT0001V0003">Caminante, no hay cam<rhyme>ino</rhyme>,</l>
